@@ -24,3 +24,4 @@ The results of the “git reflog” command were saved to the file “task1.2_GI
 The reflog is an ordered list of the commits that HEAD has pointed to: it's undo history for your repo.
 Then I added trainer AndriiKostromytskyi in this repository.
 
+ 
