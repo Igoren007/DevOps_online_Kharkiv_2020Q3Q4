@@ -21,3 +21,4 @@ Since guest operating systems interact with a hypervisor that is integrated into
 
 * <mark>VMware Workstation</mark> was developed by VMware in 1999. This is proprietary software working with x86-64 host operating systems Microsoft Windows, Linux, Ubuntu, CentOS. Supports over 200 guest OS. There is a free version with truncated features.
 
+ 
