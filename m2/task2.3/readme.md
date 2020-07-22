@@ -30,4 +30,4 @@ An AWS IAM user account has been created. I installed the AWS CLI on my work com
 
 ## 7
 
-<a href="http://garmatenko-s3-1.s3-website-us-east-1.amazonaws.com/" target="_blank">My static site in S3</a>
+<a href="http://garmatenko-s3-1.s3-website-us-east-1.amazonaws.com/" target="_blank">My static site in S3</a> 
