@@ -42,4 +42,4 @@ As a prime, we will create a virtual machine with an Ubuntu server and install N
 
 As a result, we get a working web server.
 
-![](img/Screenshot_10.png)
+![](img/Screenshot_10.png) 
