@@ -34,4 +34,18 @@ Content of file /etc/shadow:<br>
 
 **/etc/shadow** is a text file containing information about the passwords of system users. it contains one entry per line, each representing a user account.
 
+
+Let's create a script file, make it executable and run
+
 ![](images/script.png)
+
+Create a folder called TestDir under the guest, create a file inside, and also change the rights to the folder so that only the folder owner can read its contents. Then log into the system as user user and see that when we try to enter the testdir folder or read its contents, we have no access.
+
+![](images/testdir.png)
+
+![](images/usercantopentestdir.png)
+
+
+The file owner can be prevented from reading or writing content to the file. This can be done using the command **chmod**. An example in the screenshot below
+
+![](images/owner%20error.png)
