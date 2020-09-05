@@ -155,3 +155,7 @@ REVOKE ALL PRIVILEGES ON airline.aircrafts FROM 'user_2'@'localhost';
 After that, when trying to access the database, we see an error, since user_2 could only write data to one table aircrafts, and after removing these rights, he does not have any access to the database airline at all.
 
 ![](images/Screenshot_14.png)
+
+## 8.
+
+![](images/Screenshot_15.png)
