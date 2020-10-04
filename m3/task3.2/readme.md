@@ -41,4 +41,4 @@ mysql -u iag -p airline -h database-1.c6yypv3h0bt9.eu-central-1.rds.amazonaws.co
 
 
 
-![](images/Screenshot_5.png)
+![](images/Screenshot_5.png) 
