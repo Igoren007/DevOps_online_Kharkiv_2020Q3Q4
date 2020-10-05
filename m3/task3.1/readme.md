@@ -158,4 +158,4 @@ After that, when trying to access the database, we see an error, since user_2 co
 
 ## 8.
 
-![](images/Screenshot_15.png)
+![](images/Screenshot_15.png) 
